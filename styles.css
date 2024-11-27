@@ -1,13 +1,13 @@
 body {
-    background: linear-gradient(#a2d2ff, #EFB0C9);
+    background: linear-gradient(rgb(162, 210, 255), rgb(239, 176, 201));
     font-family: Happy Monkey;
     text-align: center;
-    color: #ffffff;
+    color: rgb(255, 255, 255);
 }
 
 h1 {
-    width: 700px;
-    text-wrap: wrap;
+    width: auto;
+   text-wrap: wrap;
 }
 
 h1, h2, h3, p, footer {
@@ -21,27 +21,27 @@ h1, h2, h3, p, footer {
 }
 
 #bday-age {
-    background:  #EFB0C9;
+    background:  rgb(239, 176, 201);
     padding: 8px 15px;
     margin-bottom: 0;
 }
 
 #bday-dob {
-    background:  #EFB0C9;
+    background:  rgb(239, 176, 201);
     padding: 8px 15px;
     margin-bottom: 15px;
 }
 #bday-person-img {
     width: 200px;
     border-radius: 50%;
-    border: 4px solid #EFB0C9;
+    border: 4px solid rgb(239, 176, 201);
 }
 
 .gift-img {
     background-image: url("./images/giftwrapping.png");
     height: 400px;
     width:400px;
-    border: 4px solid white;
+    border: 4px solid rgb(255, 255, 255);
     background-size: cover;
     border-radius: 4px;
 }
