@@ -1,7 +1,7 @@
 body {
-    background: -webkit-linear-gradient(pink, pink);
-    background: -o-linear-gradient(pink, pink);
-    background: -moz-linear-gradient(pink, pink);
+    background: -webkit-linear-gradient(rgb(57, 219, 46), rgb(249, 101, 2));
+    /* background: -o-linear-gradient(pink, lightblue);*/
+    /*  background: -moz-linear-gradient(pink, lightblue);*/
     font-family: Happy Monkey;
     text-align: center;
     color: rgb(255, 255, 255);
